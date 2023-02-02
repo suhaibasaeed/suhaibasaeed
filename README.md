@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suhaibasaeed
 - 👀 I’m interested in Network Automation, Cloud & DevOps
-- 🌱 I’m currently learning Network Testing via Pytest & pyATS
+- 🌱 I’m currently learning API design and Network Testing Frameworks
 - 📫 How to reach me: linkedin.com/in/suhaibsaeed
 
 <!---
