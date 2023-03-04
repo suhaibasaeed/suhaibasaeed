@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suhaib! Currently Network Automation Lead @ Gamma
 - 👀 I’m interested in Network Automation, Cloud & DevOps
-- 🌱 I’m currently learning ChatOps, API design and Network Testing Frameworks
+- 🌱 I’m currently learning Telemetry, CI/CD and Network Testing Frameworks
 - 📫 How to reach me: linkedin.com/in/suhaibsaeed
 
 <!---
