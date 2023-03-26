@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suhaib! Currently Network Automation Lead @ Gamma
 - 👀 I’m interested in Network Automation, DevOps & the Cloud
-- 🌱 I’m currently learning Model Driven Telemetry, CI/CD Pipelines & Kubernetes
+- 🌱 I’m currently learning Model Driven Telemetry, CI/CD Pipelines & K8s
 - 📫 How to reach me: linkedin.com/in/suhaibsaeed
 
 <!---
