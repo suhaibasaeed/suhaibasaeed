@@ -30,18 +30,38 @@
 - [Screenscraping with Juniper's PyEz Python Library](https://cloudnetdev.ghost.io/netconf-screen-scraping-with-pyez/)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Technologies:</h3>
+<h3 align="left">Tools & Technologies:</h3>
 <p align="center"> 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-![TravisCI](https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Cisco](https://a11ybadges.com/badge?logo=cisco)
+![Juniper Networks](https://a11ybadges.com/badge?logo=junipernetworks)
+![Ansible](https://a11ybadges.com/badge?logo=ansible)
+![Python](https://a11ybadges.com/badge?logo=python)
+![Pytest](https://a11ybadges.com/badge?logo=pytest)
+![Grafana](https://a11ybadges.com/badge?logo=grafana)
+![Amazon AWS](https://a11ybadges.com/badge?logo=amazonaws)
+![Linux](https://a11ybadges.com/badge?logo=linux)
+![Jenkins](https://a11ybadges.com/badge?logo=jenkins)
+![Travis CI](https://a11ybadges.com/badge?logo=travisci)
+![GNU Bash](https://a11ybadges.com/badge?logo=gnubash)
+![Git](https://a11ybadges.com/badge?logo=git)
+![InfluxDB](https://a11ybadges.com/badge?logo=influxdb)
+![Docker](https://a11ybadges.com/badge?logo=docker)
+![Jinja](https://a11ybadges.com/badge?logo=jinja)
+![Fortinet](https://a11ybadges.com/badge?logo=fortinet)
+![Terraform](https://a11ybadges.com/badge?logo=terraform)
+![CentOS](https://a11ybadges.com/badge?logo=centos)
+![Kubernetes](https://a11ybadges.com/badge?logo=kubernetes)
+![Atlassian](https://a11ybadges.com/badge?logo=atlassian)
+![Ubuntu](https://a11ybadges.com/badge?logo=ubuntu)
+![Prometheus](https://a11ybadges.com/badge?logo=prometheus)
+![VMware](https://a11ybadges.com/badge?logo=vmware)
+![Wireshark](https://a11ybadges.com/badge?logo=wireshark)
+![Palo Alto Software](https://a11ybadges.com/badge?logo=paloaltosoftware)
+![Apache](https://a11ybadges.com/badge?logo=apache)
+![Robot Framework](https://a11ybadges.com/badge?logo=robotframework)
+
+
 
 ### GitHub Stats
 
