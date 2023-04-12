@@ -5,8 +5,8 @@
 
 ## **About Me**
 
-- 🔭 Network Automation Lead evangalising NetDevOps @ Gamma 
-- 🌱 I’m currently learning Model Driven Telemetry, CI/CD Pipelines & K8s
+- 🔭 Currently Network Automation Lead evangalising NetDevOps @ Gamma 
+- 🌱 At the moment I'm learning Model Driven Telemetry, CI/CD Pipelines & K8s
 - ⚡ In my free time I try to contribute to the community by helping people via Slack and writing blog posts
 
 
