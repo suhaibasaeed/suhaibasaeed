@@ -31,7 +31,7 @@
 - [Screenscraping with Juniper's PyEz Python Library](https://cloudnetdev.ghost.io/netconf-screen-scraping-with-pyez/)
 <!-- BLOG-POST-LIST:END -->
 
-<h2 align="left">Tools & Technologies:</h2>
+<h2 align="left">Vendors, Tools & Technologies:</h2>
 <p align="center"> 
 
 ![Cisco](https://a11ybadges.com/badge?logo=cisco)
