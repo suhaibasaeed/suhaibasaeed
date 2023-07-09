@@ -6,7 +6,7 @@
 ## **About Me**
 
 - 🔭 Currently working as a Network Automation Lead evangalising NetDevOps @ Gamma 
-- 🌱 At the moment I'm learning Django, CI/CD Pipelines & K8s
+- 🌱 At the moment I'm learning MongoDB, CI/CD Pipelines & K8s
 - ⚡ In my free time I try to contribute back to the community by helping people via Slack & writing blog posts
 
 
@@ -36,9 +36,9 @@
 
 ![Cisco](https://a11ybadges.com/badge?logo=cisco)
 ![Juniper Networks](https://a11ybadges.com/badge?logo=junipernetworks)
-![Ansible](https://a11ybadges.com/badge?logo=ansible)
 ![Python](https://a11ybadges.com/badge?logo=python)
 ![Pytest](https://a11ybadges.com/badge?logo=pytest)
+![Ansible](https://a11ybadges.com/badge?logo=ansible)
 ![Grafana](https://a11ybadges.com/badge?logo=grafana)
 ![Amazon AWS](https://a11ybadges.com/badge?logo=amazonaws)
 ![Linux](https://a11ybadges.com/badge?logo=linux)
@@ -53,13 +53,9 @@
 ![Terraform](https://a11ybadges.com/badge?logo=terraform)
 ![CentOS](https://a11ybadges.com/badge?logo=centos)
 ![Kubernetes](https://a11ybadges.com/badge?logo=kubernetes)
-![Atlassian](https://a11ybadges.com/badge?logo=atlassian)
 ![Ubuntu](https://a11ybadges.com/badge?logo=ubuntu)
 ![Prometheus](https://a11ybadges.com/badge?logo=prometheus)
-![VMware](https://a11ybadges.com/badge?logo=vmware)
-![Wireshark](https://a11ybadges.com/badge?logo=wireshark)
 ![Palo Alto Software](https://a11ybadges.com/badge?logo=paloaltosoftware)
-![Apache](https://a11ybadges.com/badge?logo=apache)
 ![Robot Framework](https://a11ybadges.com/badge?logo=robotframework)
 
 
