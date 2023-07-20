@@ -40,7 +40,6 @@
 ![Amazon AWS](https://a11ybadges.com/badge?logo=amazonaws)
 ![Ansible](https://a11ybadges.com/badge?logo=ansible)
 ![Grafana](https://a11ybadges.com/badge?logo=grafana)
-![Robot Framework](https://a11ybadges.com/badge?logo=robotframework)
 ![Linux](https://a11ybadges.com/badge?logo=linux)
 ![Jenkins](https://a11ybadges.com/badge?logo=jenkins)
 ![Travis CI](https://a11ybadges.com/badge?logo=travisci)
@@ -54,10 +53,10 @@
 ![CentOS](https://a11ybadges.com/badge?logo=centos)
 ![Kubernetes](https://a11ybadges.com/badge?logo=kubernetes)
 ![Ubuntu](https://a11ybadges.com/badge?logo=ubuntu)
+![MongoDB](https://a11ybadges.com/badge?logo=mongodb)
 ![Prometheus](https://a11ybadges.com/badge?logo=prometheus)
-![Palo Alto Software](https://a11ybadges.com/badge?logo=paloaltosoftware)
 ![Pytest](https://a11ybadges.com/badge?logo=pytest)
-
+![Palo Alto Software](https://a11ybadges.com/badge?logo=paloaltosoftware)
 
 
 
