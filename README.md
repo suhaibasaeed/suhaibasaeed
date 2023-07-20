@@ -5,7 +5,7 @@
 
 ## **About Me**
 
-- 🔭 Currently working as a Network Automation Lead evangalising NetDevOps @ Gamma 
+- 🔭 Currently working as a Network Automation Lead evangelising NetDevOps @ Gamma 
 - 🌱 At the moment I'm learning MongoDB, CI/CD Pipelines & K8s
 - ⚡ In my free time I try to contribute back to the community by helping people via Slack & writing blog posts
 
@@ -63,7 +63,7 @@
 
 ### GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhaibasaeed&show_icons=true&locale=en&layout=compact" alt="suhaibasaeed" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhaibasaeed&show_icons=true&locale=en&layout=compact" alt="suhaibasaeed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhaibasaeed&show_icons=true&locale=en" alt="suhaibasaeed" /></p>
 
