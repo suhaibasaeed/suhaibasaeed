@@ -6,7 +6,7 @@
 ## **About Me**
 
 - 🔭 Currently working as a Network Automation Lead evangelising NetDevOps @ Gamma 
-- 🌱 At the moment I'm learning MongoDB, CI/CD Pipelines & K8s
+- 🌱 At the moment I'm learning CI/CD Pipelines, Docker & K8s
 - ⚡ In my free time I try to contribute back to the community by helping people via Slack & writing blog posts
 
 
