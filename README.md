@@ -7,7 +7,7 @@
 
 - 🔭 Currently working as a Network Automation Lead evangelising NetDevOps @ Gamma 
 - 🌱 At the moment I'm learning CI/CD Pipelines, Docker & K8s
-- ⚡ In my free time I try to contribute back to the community by helping people via Slack & writing blog posts
+- ⚡ In my free time I try to give back to the community by contributing to open-source projects, helping people via Slack & writing blog posts
 
 
 <div>
