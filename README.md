@@ -68,5 +68,5 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suhaibasaeed&color=green&style=liquid" />
+  <img src=https://komarev.com/ghpvc/?username=suhaibasaeed&color=blue />
 </p>
