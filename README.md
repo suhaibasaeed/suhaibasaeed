@@ -27,8 +27,8 @@
 ## 🎯 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Network Testing with Nornir and Pytest](https://cloudnetdev.ghost.io/network-testing-with-pytest/)
-- [Screenscraping with Juniper's PyEz Python Library](https://cloudnetdev.ghost.io/netconf-screen-scraping-with-pyez/)
+- [Network Testing with Nornir and Pytest]([https://cloudnetdev.ghost.io/network-testing-with-pytest/](https://cloudnetdev.notion.site/Network-Testing-at-Scale-with-Nornir-Pytest-86940c20382f4071afa3476ef1e03508))
+- [Screenscraping with Juniper's PyEz Python Library]([https://cloudnetdev.ghost.io/netconf-screen-scraping-with-pyez/](https://cloudnetdev.notion.site/Screenscraping-with-Juniper-s-PyEz-Python-Library-6c27432c87214c4da35c35314c56463e?pvs=4))
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">Vendors, Tools & Technologies:</h2>
