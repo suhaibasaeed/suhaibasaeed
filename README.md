@@ -40,7 +40,6 @@
 ![Grafana](https://a11ybadges.com/badge?logo=grafana)
 ![Linux](https://a11ybadges.com/badge?logo=linux)
 ![Jenkins](https://a11ybadges.com/badge?logo=jenkins)
-![Travis CI](https://a11ybadges.com/badge?logo=travisci)
 ![GNU Bash](https://a11ybadges.com/badge?logo=gnubash)
 ![Git](https://a11ybadges.com/badge?logo=git)
 ![InfluxDB](https://a11ybadges.com/badge?logo=influxdb)
