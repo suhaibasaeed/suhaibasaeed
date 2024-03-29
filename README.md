@@ -55,7 +55,7 @@
 ![Prometheus](https://a11ybadges.com/badge?logo=prometheus)
 ![Pytest](https://a11ybadges.com/badge?logo=pytest)
 ![Palo Alto Software](https://a11ybadges.com/badge?logo=paloaltosoftware)
-![Golang](https://a11ybadges.com/badge?logo=golang)
+![Golang](https://a11ybadges.com/badge?logo=go)
 
 
 
