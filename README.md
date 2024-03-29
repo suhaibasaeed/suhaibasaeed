@@ -43,6 +43,7 @@
 ![GNU Bash](https://a11ybadges.com/badge?logo=gnubash)
 ![Git](https://a11ybadges.com/badge?logo=git)
 ![InfluxDB](https://a11ybadges.com/badge?logo=influxdb)
+![Golang](https://a11ybadges.com/badge?logo=go)
 ![Docker](https://a11ybadges.com/badge?logo=docker)
 ![Jinja](https://a11ybadges.com/badge?logo=jinja)
 ![Fortinet](https://a11ybadges.com/badge?logo=fortinet)
@@ -54,9 +55,6 @@
 ![Prometheus](https://a11ybadges.com/badge?logo=prometheus)
 ![Pytest](https://a11ybadges.com/badge?logo=pytest)
 ![Palo Alto Software](https://a11ybadges.com/badge?logo=paloaltosoftware)
-![Golang](https://a11ybadges.com/badge?logo=go)
-
-
 
 ### GitHub Stats
 
