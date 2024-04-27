@@ -6,7 +6,7 @@
 ## **About Me**
 
 - 🔭 Currently working as a Network Automation Lead evangelising NetDevOps @ Gamma 
-- 🌱 At the moment I'm learning Prometheus, Helm & K8s
+- 🌱 At the moment I'm learning Golang and Terraform & Security stuff
 - ⚡ In my free time I try to give back to the community by contributing to open-source projects, helping people via Slack & writing blog posts
 
 
