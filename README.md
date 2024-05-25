@@ -54,7 +54,6 @@
 ![MongoDB](https://a11ybadges.com/badge?logo=mongodb)
 ![Prometheus](https://a11ybadges.com/badge?logo=prometheus)
 ![Pytest](https://a11ybadges.com/badge?logo=pytest)
-![Palo Alto Software](https://a11ybadges.com/badge?logo=paloaltosoftware)
 
 ### GitHub Stats
 
