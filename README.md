@@ -6,7 +6,7 @@
 ## **About Me**
 
 - 🔭 Currently working as an AWS NetOps Engineer @ Samsara
-- 🌱 At the moment I'm learning Golang
+- 🌱 At the moment I'm trying to master Golang
 - ⚡ In my free time I try to give back to the community by contributing to open-source projects, helping people via Slack communities & writing blog posts
 
 
