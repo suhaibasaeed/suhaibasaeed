@@ -5,9 +5,9 @@
 
 ## **About Me**
 
-- 🔭 Currently working as a Network Automation Lead evangelising NetDevOps @ Gamma 
-- 🌱 At the moment I'm learning Golang, Terraform & Security stuff
-- ⚡ In my free time I try to give back to the community by contributing to open-source projects, helping people via Slack & writing blog posts
+- 🔭 Currently working as an AWS NetOps Engineer @ Samsara
+- 🌱 At the moment I'm learning Golang
+- ⚡ In my free time I try to give back to the community by contributing to open-source projects, helping people via Slack communities & writing blog posts
 
 
 <div>
@@ -25,6 +25,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Golang for Network Engineers](https://cloudnetdev.notion.site/Golang-for-Network-Engineers-3b63e3b709754ece9a9bdd171e05c54f?pvs=4)
+- [Nornir Network Automation Framework](https://cloudnetdev.notion.site/Network-Automation-with-Nornir-73850b2aa4224ca898efe370133b755b)
 - [Network Testing with Nornir and Pytest](https://cloudnetdev.notion.site/Network-Testing-at-Scale-with-Nornir-Pytest-86940c20382f4071afa3476ef1e03508)
 - [Screenscraping with Juniper's PyEz Python Library](https://cloudnetdev.notion.site/Screenscraping-with-Juniper-s-PyEz-Python-Library-6c27432c87214c4da35c35314c56463e?pvs=4)
 <!-- BLOG-POST-LIST:END -->
@@ -37,22 +38,12 @@
 ![Python](https://a11ybadges.com/badge?logo=python)
 ![Amazon AWS](https://a11ybadges.com/badge?logo=amazonaws)
 ![Ansible](https://a11ybadges.com/badge?logo=ansible)
-![Grafana](https://a11ybadges.com/badge?logo=grafana)
 ![Linux](https://a11ybadges.com/badge?logo=linux)
-![Jenkins](https://a11ybadges.com/badge?logo=jenkins)
 ![GNU Bash](https://a11ybadges.com/badge?logo=gnubash)
 ![Git](https://a11ybadges.com/badge?logo=git)
-![InfluxDB](https://a11ybadges.com/badge?logo=influxdb)
-![Golang](https://a11ybadges.com/badge?logo=go)
 ![Docker](https://a11ybadges.com/badge?logo=docker)
 ![Jinja](https://a11ybadges.com/badge?logo=jinja)
 ![Fortinet](https://a11ybadges.com/badge?logo=fortinet)
-![Terraform](https://a11ybadges.com/badge?logo=terraform)
-![CentOS](https://a11ybadges.com/badge?logo=centos)
-![Kubernetes](https://a11ybadges.com/badge?logo=kubernetes)
-![Ubuntu](https://a11ybadges.com/badge?logo=ubuntu)
-![MongoDB](https://a11ybadges.com/badge?logo=mongodb)
-![Prometheus](https://a11ybadges.com/badge?logo=prometheus)
 ![Pytest](https://a11ybadges.com/badge?logo=pytest)
 
 ### GitHub Stats
