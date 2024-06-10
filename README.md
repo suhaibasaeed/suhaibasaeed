@@ -40,7 +40,6 @@
 ![Ansible](https://a11ybadges.com/badge?logo=ansible)
 ![Linux](https://a11ybadges.com/badge?logo=linux)
 ![GNU Bash](https://a11ybadges.com/badge?logo=gnubash)
-![Git](https://a11ybadges.com/badge?logo=git)
 ![Docker](https://a11ybadges.com/badge?logo=docker)
 ![Jinja](https://a11ybadges.com/badge?logo=jinja)
 ![Fortinet](https://a11ybadges.com/badge?logo=fortinet)
