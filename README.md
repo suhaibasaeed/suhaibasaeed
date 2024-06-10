@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working as an AWS NetOps Engineer @ Samsara & am also a part-time firefighter. 🚒
 - 🌱 At the moment I'm trying to master Golang.
-- ⚡ In my free time I try to give back to the community by contributing to open-source projects, helping people via various Slack communities & writing blog posts.
+- ⚡ In my free time I try to give back to the community by contributing to open-source projects, mentoring people & writing blog posts.
 
 
 <div>
