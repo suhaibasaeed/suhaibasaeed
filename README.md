@@ -6,7 +6,7 @@
 ## **About Me**
 
 - 🔭 I'm currently working as an AWS Cloud Network Engineer @ Samsara & am also a part-time firefighter. 🚒
-- 🌱 At the moment I'm trying to master Golang.
+- 🌱 At the moment I'm learning Kubernetes
 - ⚡ In my free time I try to give back to the community by contributing to open-source projects, mentoring people & writing blog posts.
 
 
@@ -24,7 +24,7 @@
 ## 🎯 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Slashing AWS Costs with Athena, VPC Flow logs & VPC Endpoints] (https://cloudnetdev.notion.site/slashing-aws-costs-with-athena-vpc-flowlogs-and-endpoints?pvs=4)
+- [Slashing AWS Costs with Athena, VPC Flow logs & VPC Endpoints](https://cloudnetdev.notion.site/slashing-aws-costs-with-athena-vpc-flowlogs-and-endpoints?pvs=4)
 - [Golang for Network Engineers](https://cloudnetdev.notion.site/Golang-for-Network-Engineers-3b63e3b709754ece9a9bdd171e05c54f?pvs=4)
 - [Nornir Network Automation Framework](https://cloudnetdev.notion.site/Network-Automation-with-Nornir-73850b2aa4224ca898efe370133b755b)
 - [Network Testing with Nornir and Pytest](https://cloudnetdev.notion.site/Network-Testing-at-Scale-with-Nornir-Pytest-86940c20382f4071afa3476ef1e03508)
