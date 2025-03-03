@@ -34,17 +34,17 @@
 <h2 align="left">Vendors, Tools & Technologies:</h2>
 <p align="center"> 
 
-![Cisco](https://a11ybadges.com/badge?logo=cisco)
-![Juniper Networks](https://a11ybadges.com/badge?logo=junipernetworks)
-![Python](https://a11ybadges.com/badge?logo=python)
 ![Amazon AWS](https://a11ybadges.com/badge?logo=amazonaws)
-![Ansible](https://a11ybadges.com/badge?logo=ansible)
+![Python](https://a11ybadges.com/badge?logo=python)
+![Golang](https://a11ybadges.com/badge?logo=go)
 ![Linux](https://a11ybadges.com/badge?logo=linux)
-![GNU Bash](https://a11ybadges.com/badge?logo=gnubash)
+![Cisco](https://a11ybadges.com/badge?logo=cisco)
 ![Docker](https://a11ybadges.com/badge?logo=docker)
-![Jinja](https://a11ybadges.com/badge?logo=jinja)
+![Kubernetes](https://a11ybadges.com/badge?logo=kubernetes)
+![Ansible](https://a11ybadges.com/badge?logo=ansible)
+![Juniper Networks](https://a11ybadges.com/badge?logo=junipernetworks)
+![GNU Bash](https://a11ybadges.com/badge?logo=gnubash)
 ![Fortinet](https://a11ybadges.com/badge?logo=fortinet)
-![Pytest](https://a11ybadges.com/badge?logo=pytest)
 
 ### GitHub Stats
 
