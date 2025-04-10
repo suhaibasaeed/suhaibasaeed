@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working as an AWS Cloud Network Engineer @ Samsara & am also a part-time firefighter. 🚒
 - 🌱 At the moment I'm learning Kubernetes
-- ⚡ In my free time I'm trying to give back to the community by contributing to open-source projects, mentoring people & writing blog posts.
+- ⚡ In my free time I'm trying to give back to the community by contributing to open-source projects, mentoring & writing blog posts.
 
 
 <div>
