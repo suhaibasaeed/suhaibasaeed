@@ -5,9 +5,9 @@
 
 ## **About Me**
 
-- 🔭 I'm currently working as an AWS Cloud Network Engineer @ Samsara & am also a part-time firefighter. 🚒
-- 🌱 At the moment I'm learning Kubernetes
-- ⚡ In my free time I'm trying to give back to the community by contributing to open-source projects, mentoring & writing blog posts.
+- 🔭 I'm currently working as aloud Network Engineer @ Samsara
+- 🌱 At the moment I'm trying to master Kubernetes
+- ⚡ In my free time I try to give back to the community by contributing to open-source projects, speaking at conferences/meetups & writing technical blog posts.
 
 
 <div>
@@ -24,6 +24,7 @@
 ## 🎯 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Automating Kubernetes & Network Invetory Management with AWS EKS Auto-Mode + Nautobot](https://www.notion.so/cloudnetdev/Automating-Kubernetes-Network-Inventory-Management-using-AWS-EKS-Auto-Mode-Nautobot-251a914d519880508376d5d81d6f35b0)
 - [Slashing AWS Costs with Athena, VPC Flow logs & VPC Endpoints](https://cloudnetdev.notion.site/slashing-aws-costs-with-athena-vpc-flowlogs-and-endpoints?pvs=4)
 - [Golang for Network Engineers](https://cloudnetdev.notion.site/Golang-for-Network-Engineers-3b63e3b709754ece9a9bdd171e05c54f?pvs=4)
 - [Nornir Network Automation Framework](https://cloudnetdev.notion.site/Network-Automation-with-Nornir-73850b2aa4224ca898efe370133b755b)
