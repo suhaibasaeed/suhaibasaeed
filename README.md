@@ -22,16 +22,20 @@
 
 
 ## 🎯 Latest Blog Posts
-### Cloud Native
-<!-- BLOG-POST-LIST:START -->
+### Kubernetes
+- [Intro to Kubernetes for Network Engineers](https://www.notion.so/cloudnetdev/Kubernetes-for-Network-Engineers-227a914d5198803ca686c6e42e141750)
+- [Securing Kubernetes Egress Traffic with Cilium & Network Policies](https://www.notion.so/cloudnetdev/Securing-Kubernetes-Egress-Traffic-with-Cilium-L7-Network-Policies-2aca914d51988017bb04ed54f0cff536)
 - [Automating Kubernetes & Network Inventory Management with AWS EKS Auto-Mode + Nautobot](https://www.notion.so/cloudnetdev/Automating-Kubernetes-Network-Inventory-Management-using-AWS-EKS-Auto-Mode-Nautobot-251a914d519880508376d5d81d6f35b0)
+### Cloud Networking
 - [Slashing AWS Costs with Athena, VPC Flow logs & VPC Endpoints](https://cloudnetdev.notion.site/slashing-aws-costs-with-athena-vpc-flowlogs-and-endpoints?pvs=4)
+### Linux
+- [Linux Networking Fundamentals](https://www.notion.so/cloudnetdev/Linux-Networking-for-Network-Engineers-23da914d519880e0bdf0f2a5b7d0b39c)
 ### Network Automation
 - [Golang for Network Engineers](https://cloudnetdev.notion.site/Golang-for-Network-Engineers-3b63e3b709754ece9a9bdd171e05c54f?pvs=4)
 - [Nornir Network Automation Framework](https://cloudnetdev.notion.site/Network-Automation-with-Nornir-73850b2aa4224ca898efe370133b755b)
 - [Network Testing with Nornir and Pytest](https://cloudnetdev.notion.site/Network-Testing-at-Scale-with-Nornir-Pytest-86940c20382f4071afa3476ef1e03508)
 - [Screenscraping with Juniper's PyEz Python Library](https://cloudnetdev.notion.site/Screenscraping-with-Juniper-s-PyEz-Python-Library-6c27432c87214c4da35c35314c56463e?pvs=4)
-<!-- BLOG-POST-LIST:END -->
+
 
 <h2 align="left">Vendors, Tools & Technologies:</h2>
 <p align="center"> 
