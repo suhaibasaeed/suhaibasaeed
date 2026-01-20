@@ -5,7 +5,7 @@
 
 ## **About Me**
 
-- 🔭 I'm currently working as a Cloud Network Engineer @ Samsara
+- 🔭 I'm currently working as a Cloud Network Engineer @ Samsara focused on all things AWS
 - 🌱 At the moment I'm trying to master Kubernetes
 - ⚡ In my free time I try to give back to the community by contributing to open-source projects, speaking at conferences/meetups & writing technical blog posts.
 
