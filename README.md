@@ -5,9 +5,9 @@
 
 ## **About Me**
 
-- 🔭 I'm currently working as a Cloud Network Engineer @ Samsara focused on all things AWS
+- 🔭 I'm currently working as a Cloud Engineer @ Samsara focused on all things AWS
 - 🌱 At the moment I'm trying to master Kubernetes
-- ⚡ In my free time I try to give back to the community by contributing to open-source projects, speaking at conferences/meetups & writing technical blog posts.
+- ⚡ In my free time I try to give back to the community by mentoring junior engineers, by contributing to open-source projects, speaking at conferences/meetups & writing technical blog posts.
 
 
 <div>
@@ -21,7 +21,10 @@
 </details>
 
 
+## 📢 My Conference Talks
+- [Network Automation Frameworks - Ansible Vs Nornir](https://www.youtube.com/watch?v=tERBjiB-Lv8)
 ## 🎯 Latest Blog Posts
+
 ### Kubernetes
 - [Intro to Kubernetes for Network Engineers](https://www.notion.so/cloudnetdev/Kubernetes-for-Network-Engineers-227a914d5198803ca686c6e42e141750)
 - [Securing Kubernetes Egress Traffic with Cilium & Network Policies](https://www.notion.so/cloudnetdev/Securing-Kubernetes-Egress-Traffic-with-Cilium-L7-Network-Policies-2aca914d51988017bb04ed54f0cff536)
